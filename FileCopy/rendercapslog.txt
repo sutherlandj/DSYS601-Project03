@@ -1,0 +1,12 @@
+[19:01:32:169] 
+[19:01:32:169] Nv performance data: device[7812], clock[1905], count[2560]. 
+[19:01:32:169] 
+[19:01:32:327] 
+[19:01:32:327] Adapter: NVIDIA GeForce RTX 2070 SUPER. 
+[19:01:32:327] 
+[19:01:32:327] 
+[19:01:32:327] Nv score: device[7812], score[4876]. 
+[19:01:32:327] 
+[19:01:32:370] 
+[19:01:32:370] Adapter: Microsoft Basic Render Driver. 
+[19:01:32:370] 
